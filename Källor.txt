@@ -1,0 +1,10 @@
+Tim Corey 
+
+https://www.youtube.com/watch?v=LSkbnpjCEkk - Error handling
+https://www.youtube.com/watch?v=qkJ9keBmQWo&t=8347s - Entity Framework best practices
+https://www.youtube.com/watch?v=_JxC6EUxbDo&t=2994s - Connecting C# To MySQL Using Blazor (Full CRUD Actions)
+
+Stack overflow - JSON Serilization error information 
+(How to add .AddNewtonsoftJson(options => options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);)
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#server_error_responses
